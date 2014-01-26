@@ -10,6 +10,7 @@
 <form action="LogInServlet">
 	Enter your username:<input type="text" name="username"/><br>
 	Enter your password:<input type="password" name="password"/><br>
+	HI TESTING KMAI12<br>
 	<input type="submit" name="submit" value="Login">
 </form>
 
